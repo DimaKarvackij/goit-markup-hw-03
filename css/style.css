@@ -369,16 +369,15 @@ address {
     flex-direction: column;
     justify-content: center;
     gap: 8px;
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 .name {
     margin-bottom: 8px;
 }
 
-.page-header-container {
-    padding-top: 32px;
-    padding-bottom: 32px;
-}
+
 
 .name {
     color: #2E2F42;
