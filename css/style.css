@@ -280,7 +280,7 @@ address {
     overflow: hidden;
 }
 
-.li:not(:last-child){
+.lidy:not(:last-child){
     margin-right: 32px;
 }
 
