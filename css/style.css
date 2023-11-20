@@ -237,11 +237,11 @@ address {
 /*==============Section 2================*/
 
 
-/*.profession {
+.profession {
     display: flex;
     gap: 0 24px;
 }
-*/
+
 .main-title {
     margin-bottom: 8px;
 }
@@ -252,7 +252,7 @@ address {
 
 
 .ildy{
-    gap:24px;
+    gap:0 24px;
 }
 
 .profession {
