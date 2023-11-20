@@ -252,8 +252,8 @@ address {
 
 
 
-.profession:not(:last-child){
-    gap:24px;
+.profession li:not(:last-child){
+   margin-bottom:24px;
 }
 .profession {
     display: flex;
