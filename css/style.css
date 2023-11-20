@@ -260,7 +260,7 @@ address {
 
 .title {
     margin-bottom: 8px;
-    ;
+    
 }
 
 .our-home {
@@ -281,9 +281,7 @@ address {
     overflow: hidden;
 }
 
-.lidy:not(:last-child) {
-    margin-right: 24px;
-}
+
 
 .title {}
 
