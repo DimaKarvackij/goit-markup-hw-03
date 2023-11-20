@@ -251,10 +251,10 @@ address {
 }
 
 
-
-.profession li:not(:last-child){
-   margin-bottom:24px;
+.ildy{
+    gap:24px;
 }
+
 .profession {
     display: flex;
 
