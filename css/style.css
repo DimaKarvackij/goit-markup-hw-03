@@ -77,7 +77,7 @@ address {
 
 .menu {
     display: flex;
-    column-gap: 40px;
+
 }
 
 .idrt {
@@ -93,7 +93,7 @@ address {
 
 .menu-conct {
     display: flex;
-    column-gap: 40px;
+    
 
 }
 
