@@ -252,10 +252,12 @@ address {
 
 
 
-
+.profession:not(:last-child){
+    gap:24px;
+}
 .profession {
     display: flex;
-    gap: 0 24px;
+
 }
 
 .title {
