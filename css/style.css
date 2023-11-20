@@ -239,7 +239,7 @@ address {
 
 .profession {
     display: flex;
-    gap: 0 24px;
+    gap: 24px;
 }
 
 .main-title {
