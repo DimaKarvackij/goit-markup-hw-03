@@ -340,7 +340,7 @@ address {
 
 .picture {
     display: flex;
-    column-gap: 24px;
+    
 }
 
 .pictures:not(:last-child) {
@@ -361,12 +361,6 @@ address {
 
 
 .page-picture {
-    display: flex;
-    margin: 32px 16px;
-    width: 232px;
-    flex-direction: column;
-    justify-content: center;
-    gap: 8px;
     padding-top: 32px;
     padding-bottom: 32px;
 }
@@ -482,9 +476,7 @@ address {
 
 }
 
-.yes {
-    margin-bottom: 72px;
-}
+
 
 .s-story {
 
